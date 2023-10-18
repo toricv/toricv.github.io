@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comentários sobre Toric Produções	</title>
-	<atom:link href="https://toric.me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://toric.me/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Oct 2023 17:40:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Oct 2023 22:39:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

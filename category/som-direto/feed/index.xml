@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portfólio de Som Direto | Trabalhos em Destaque - Toric Produções</title>
-	<atom:link href="https://toric.me/category/som-direto/feed/" rel="self" type="application/rss+xml" />
-	<link>https://toric.me/category/som-direto/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Sat, 14 Oct 2023 11:57:24 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -19,18 +19,26 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/10/android-chrome-192x192-1.png</url>
+	<title>Portfólio de Som Direto | Trabalhos em Destaque - Toric Produções</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Pellentesque Eliteget Gravida Cum Ornare #6</title>
-		<link>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-3/</link>
-					<comments>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-3/#respond</comments>
+		<link>./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-3/index.html</link>
+					<comments>./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-3/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[toric_v]]></dc:creator>
 		<pubDate>Sat, 14 Oct 2023 11:51:24 +0000</pubDate>
 				<category><![CDATA[Som Direto]]></category>
-		<guid isPermaLink="false">https://toric.me/?p=2200</guid>
+		<guid isPermaLink="false">./../../../index.html?p=2200</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id volutpat lacus laoreet non. Eu ultrices vitae auctor eu augue ut lectus. In ante metus dictum at tempor commodo ullamcorper a lacus. Etiam non quam lacus suspendisse. Porttitor leo a diam sollicitudin tempor id eu [&#8230;]</p>
-<p>O post <a rel="nofollow" href="https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-3/">Pellentesque Eliteget Gravida Cum Ornare #6</a> apareceu primeiro em <a rel="nofollow" href="https://toric.me">Toric Produções</a>.</p>
+<p>O post <a rel="nofollow" href="./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-3/index.html">Pellentesque Eliteget Gravida Cum Ornare #6</a> apareceu primeiro em <a rel="nofollow" href="./../../../">Toric Produções</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id volutpat lacus laoreet non. Eu ultrices vitae auctor eu augue ut lectus. In ante metus dictum at tempor commodo ullamcorper a lacus. Etiam non quam lacus suspendisse. Porttitor leo a diam sollicitudin tempor id eu nisl. Auctor urna nunc id cursus metus aliquam eleifend mi. Aliquam vestibulum morbi blandit cursus risus at. Sollicitudin tempor id eu nisl nunc. Amet nisl suscipit adipiscing bibendum. Est ullamcorper eget nulla facilisi etiam. At urna condimentum mattis pellentesque. Volutpat ac tincidunt vitae semper quis lectus nulla at. Aliquet porttitor lacus luctus accumsan tortor posuere. Ut ornare lectus sit amet est placerat. Mollis nunc sed id semper.</p>
@@ -50,26 +58,26 @@
 
 
 <p>Nunc consequat interdum varius sit amet mattis. Quam quisque id diam vel. Sit amet justo donec enim. Erat velit scelerisque in dictum non consectetur a. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Quisque id diam vel quam elementum pulvinar etiam. Rhoncus dolor purus non enim praesent elementum facilisis. Eros in cursus turpis massa tincidunt dui ut. Volutpat odio facilisis mauris sit amet massa vitae tortor condimentum. Eget duis at tellus at.</p>
-<p>O post <a rel="nofollow" href="https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-3/">Pellentesque Eliteget Gravida Cum Ornare #6</a> apareceu primeiro em <a rel="nofollow" href="https://toric.me">Toric Produções</a>.</p>
+<p>O post <a rel="nofollow" href="./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-3/index.html">Pellentesque Eliteget Gravida Cum Ornare #6</a> apareceu primeiro em <a rel="nofollow" href="./../../../">Toric Produções</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-3/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-3/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pellentesque Eliteget Gravida Cum Ornare #4</title>
-		<link>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-2/</link>
-					<comments>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-2/#respond</comments>
+		<link>./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-2/index.html</link>
+					<comments>./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[toric_v]]></dc:creator>
 		<pubDate>Sat, 14 Oct 2023 11:50:26 +0000</pubDate>
 				<category><![CDATA[Som Direto]]></category>
-		<guid isPermaLink="false">https://toric.me/?p=2198</guid>
+		<guid isPermaLink="false">./../../../index.html?p=2198</guid>
 
 					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id volutpat lacus laoreet non. Eu ultrices vitae auctor eu augue ut lectus. In ante metus dictum at tempor commodo ullamcorper a lacus. Etiam non quam lacus suspendisse. Porttitor leo a diam sollicitudin tempor id eu [&#8230;]</p>
-<p>O post <a rel="nofollow" href="https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-2/">Pellentesque Eliteget Gravida Cum Ornare #4</a> apareceu primeiro em <a rel="nofollow" href="https://toric.me">Toric Produções</a>.</p>
+<p>O post <a rel="nofollow" href="./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-2/index.html">Pellentesque Eliteget Gravida Cum Ornare #4</a> apareceu primeiro em <a rel="nofollow" href="./../../../">Toric Produções</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id volutpat lacus laoreet non. Eu ultrices vitae auctor eu augue ut lectus. In ante metus dictum at tempor commodo ullamcorper a lacus. Etiam non quam lacus suspendisse. Porttitor leo a diam sollicitudin tempor id eu nisl. Auctor urna nunc id cursus metus aliquam eleifend mi. Aliquam vestibulum morbi blandit cursus risus at. Sollicitudin tempor id eu nisl nunc. Amet nisl suscipit adipiscing bibendum. Est ullamcorper eget nulla facilisi etiam. At urna condimentum mattis pellentesque. Volutpat ac tincidunt vitae semper quis lectus nulla at. Aliquet porttitor lacus luctus accumsan tortor posuere. Ut ornare lectus sit amet est placerat. Mollis nunc sed id semper.</p>
@@ -89,10 +97,10 @@
 
 
 <p>Nunc consequat interdum varius sit amet mattis. Quam quisque id diam vel. Sit amet justo donec enim. Erat velit scelerisque in dictum non consectetur a. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Quisque id diam vel quam elementum pulvinar etiam. Rhoncus dolor purus non enim praesent elementum facilisis. Eros in cursus turpis massa tincidunt dui ut. Volutpat odio facilisis mauris sit amet massa vitae tortor condimentum. Eget duis at tellus at.</p>
-<p>O post <a rel="nofollow" href="https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-2/">Pellentesque Eliteget Gravida Cum Ornare #4</a> apareceu primeiro em <a rel="nofollow" href="https://toric.me">Toric Produções</a>.</p>
+<p>O post <a rel="nofollow" href="./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-2/index.html">Pellentesque Eliteget Gravida Cum Ornare #4</a> apareceu primeiro em <a rel="nofollow" href="./../../../">Toric Produções</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../som-direto/pellentesque-eliteget-gravida-cum-ornare-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://toric.me/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://toric.me/category/edicao-de-som/</loc>
+		<loc>./category/edicao-de-som/index.html</loc>
 		<lastmod>2023-10-14T17:23:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://toric.me/category/edicao-de-video/</loc>
+		<loc>./category/edicao-de-video/index.html</loc>
 		<lastmod>2023-10-14T17:23:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://toric.me/category/ilustracao/</loc>
+		<loc>./category/ilustracao/index.html</loc>
 		<lastmod>2023-10-14T11:57:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://toric.me/category/som-direto/</loc>
+		<loc>./category/som-direto/index.html</loc>
 		<lastmod>2023-10-14T11:57:24+00:00</lastmod>
 	</url>
 </urlset>

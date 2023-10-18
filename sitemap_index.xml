@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://toric.me/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://toric.me/post-sitemap.xml</loc>
+		<loc>./post-sitemap.xml</loc>
 		<lastmod>2023-10-14T17:23:22+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://toric.me/page-sitemap.xml</loc>
-		<lastmod>2023-10-17T17:40:25+00:00</lastmod>
+		<loc>./page-sitemap.xml</loc>
+		<lastmod>2023-10-17T22:39:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://toric.me/category-sitemap.xml</loc>
+		<loc>./category-sitemap.xml</loc>
 		<lastmod>2023-10-14T17:23:22+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://toric.me/post_tag-sitemap.xml</loc>
+		<loc>./post_tag-sitemap.xml</loc>
 		<lastmod>2023-10-14T11:57:43+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://toric.me/author-sitemap.xml</loc>
+		<loc>./author-sitemap.xml</loc>
 		<lastmod>2023-10-11T12:16:56+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

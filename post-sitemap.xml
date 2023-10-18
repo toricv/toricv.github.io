@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://toric.me/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://toric.me/ilustracao/pellentesque-eliteget-gravida-cum-ornare-5/</loc>
+		<loc>./ilustracao/pellentesque-eliteget-gravida-cum-ornare-5/index.html</loc>
 		<lastmod>2023-10-14T11:56:45+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/ilustracao/pellentesque-eliteget-gravida-cum-ornare-4/</loc>
+		<loc>./ilustracao/pellentesque-eliteget-gravida-cum-ornare-4/index.html</loc>
 		<lastmod>2023-10-14T11:57:06+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-3/</loc>
+		<loc>./som-direto/pellentesque-eliteget-gravida-cum-ornare-3/index.html</loc>
 		<lastmod>2023-10-14T11:57:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/som-direto/pellentesque-eliteget-gravida-cum-ornare-2/</loc>
+		<loc>./som-direto/pellentesque-eliteget-gravida-cum-ornare-2/index.html</loc>
 		<lastmod>2023-10-14T11:57:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/edicao-de-som/pellentesque-eliteget-gravida-cum-ornare-6/</loc>
+		<loc>./edicao-de-som/pellentesque-eliteget-gravida-cum-ornare-6/index.html</loc>
 		<lastmod>2023-10-14T11:57:43+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/edicao-de-video/inbrasil-cultural/</loc>
+		<loc>./edicao-de-video/inbrasil-cultural/index.html</loc>
 		<lastmod>2023-10-14T17:23:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/blog-img-5.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

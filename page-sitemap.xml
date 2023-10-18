@@ -1,119 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://toric.me/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://toric.me/</loc>
-		<lastmod>2023-10-17T16:04:35+00:00</lastmod>
+		<loc>./index.html</loc>
+		<lastmod>2023-10-17T22:39:46+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/In-Brasil-Cultural.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/thumb_Toric.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Desafina-Filmes.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/In-Brasil-Cultural.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Caixa-de-Leite-Producoes.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Desafina-Filmes.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Pink-Print.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Caixa-de-Leite-Producoes.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Conta-Outra-Producoes.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Pink-Print.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Grupo-Midia-A.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Conta-Outra-Producoes.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Agile-Trends.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Grupo-Midia-A.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/bg_Cam-02.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Agile-Trends.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/bg_Cam-02.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/pagina-exemplo/</loc>
+		<loc>./pagina-exemplo/index.html</loc>
 		<lastmod>2023-10-05T23:26:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://toric.me/servicos/</loc>
+		<loc>./servicos/index.html</loc>
 		<lastmod>2023-10-08T19:22:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2021/06/person-cta@2x.png</image:loc>
+			<image:loc>./wp-content/uploads/2021/06/person-cta@2x.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/portfolio/</loc>
+		<loc>./portfolio/index.html</loc>
 		<lastmod>2023-10-17T16:08:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Autorretrato_001.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Autorretrato_001.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://toric.me/sobre/</loc>
+		<loc>./sobre/index.html</loc>
 		<lastmod>2023-10-17T17:40:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/20221206_173251-Copia.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/20221206_173251-Copia.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/photoshop.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/photoshop.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/illustrator.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/illustrator.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/indesign.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/indesign.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/photoshop-lightroom.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/photoshop-lightroom.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/premiere-pro.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/premiere-pro.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/after-effects.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/after-effects.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/audition.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/audition.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Media-Encoder.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Media-Encoder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/adobe-xd.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/adobe-xd.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/substance-painter.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/substance-painter.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/blender.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/blender.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/davinci-resolve-12.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/davinci-resolve-12.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/capcut.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/capcut.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/Toon-Boom.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/Toon-Boom.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/storyboardPro.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/storyboardPro.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/figma-1.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/figma-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/html.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/html.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/css-3.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/css-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/javascript.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/javascript.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/wordpress.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/wordpress.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://toric.me/wp-content/uploads/2023/10/bg_Vic-04.png</image:loc>
+			<image:loc>./wp-content/uploads/2023/10/bg_Vic-04.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

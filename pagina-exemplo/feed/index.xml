@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: Página de exemplo	</title>
-	<atom:link href="https://toric.me/pagina-exemplo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://toric.me/pagina-exemplo/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Thu, 05 Oct 2023 23:26:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
