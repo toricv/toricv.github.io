@@ -9,3 +9,19 @@ RewriteRule . /index.php [L]
 </IfModule>
 # END WordPress
 
+# BEGIN Font Awesome
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css|js)$">
+    Header set Access-Control-Allow-Origin "http://toric.me/"
+  </FilesMatch>
+</IfModule>
+# END Font Awesome
+
+# BEGIN Font Awesome Subdomain
+<ifmodule mod_headers.c="">
+   SetEnvIf Origin "^(.*\.toric\.me)$" ORIGIN_SUB_DOMAIN=$1
+   Header set Access-Control-Allow-Origin "%{ORIGIN_SUB_DOMAIN}e" env=ORIGIN_SUB_DOMAIN
+   Header set Access-Control-Allow-Methods: "*"
+   Header set Access-Control-Allow-Headers: "Origin, X-Requested-With, Content-Type, Accept, Authorization"
+</ifmodule>
+# END Font Awesome Subdomain
