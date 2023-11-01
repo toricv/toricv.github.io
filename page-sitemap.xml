@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2023-10-18T19:33:57+00:00</lastmod>
+		<lastmod>2023-11-01T00:02:37+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/thumb_Toric.png</image:loc>
 		</image:image>
@@ -43,15 +43,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./portfolio/index.html</loc>
-		<lastmod>2023-10-17T16:08:17+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/10/Autorretrato_001.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./sobre/index.html</loc>
-		<lastmod>2023-10-18T20:23:55+00:00</lastmod>
+		<lastmod>2023-10-31T13:39:41+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/20221206_173251-Copia.jpg</image:loc>
 		</image:image>
@@ -117,6 +110,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/10/bg_Vic-04.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./portfolio/index.html</loc>
+		<lastmod>2023-11-01T00:03:56+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/10/Autorretrato_001.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
