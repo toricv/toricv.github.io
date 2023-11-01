@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 01 Nov 2023 00:39:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Nov 2023 12:40:21 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -45,7 +45,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-502576a3 elementor-widget elementor-widget-text-editor" data-id="502576a3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 25-10-2023 */
+			<style>/*! elementor - v3.17.0 - 01-11-2023 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><!-- wp:paragraph --></p>
 <div>
 <div dir="auto">Trabalho freelance de longa dureção para <a href="https://www.facebook.com/AgileTrends">Agile Trends</a> na prestação de serviços em gravações de palestra e eventos, bem como edição do material bruto para acervo e divulgação nas redes sociais. Edição de vídeo, imagem, som e operação de câmera. Planejamento e acompanhamento de rotina para postagens em redes sociais.</div>
@@ -59,7 +59,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-7406fce elementor-widget elementor-widget-heading" data-id="7406fce" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 25-10-2023 */
+			<style>/*! elementor - v3.17.0 - 01-11-2023 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Vídeos</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e56424f elementor-widget elementor-widget-text-editor" data-id="e56424f" data-element_type="widget" data-widget_type="text-editor.default">
@@ -72,7 +72,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-dd50d5e elementor-widget elementor-widget-video" data-id="dd50d5e" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/ddvUVcKUim0?si=q6v3wgKo1wdWHm-l&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 25-10-2023 */
+			<style>/*! elementor - v3.17.0 - 01-11-2023 */
 .elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-wrapper elementor-open-inline">
 			<div class="elementor-video"></div>		</div>
 				</div>
@@ -137,6 +137,203 @@
 				</div>
 							</div>
 		<p>O post <a href="./../../../edicao-de-video/agile-trends/index.html">Agile Trends &#8211; Editor de Vídeos</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exchange Pride</title>
+		<link>./../../../motion-design/exchange-pride/index.html</link>
+		
+		<dc:creator><![CDATA[toric_v]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2022 03:00:36 +0000</pubDate>
+				<category><![CDATA[Motion Design]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2634</guid>
+
+					<description><![CDATA[<p>Exchange Pride é um projeto freelance para criação de animação para campanha de lançamento do projeto. Atuei como motion designer criando a adpatação do roteiro para o storyboard, as animações, adequando as ilustrações a identidade da marca e os efeitos de transição. Animação https://youtu.be/ZOCZRHz-2Yc Galeria</p>
+<p>O post <a href="./../../../motion-design/exchange-pride/index.html">Exchange Pride</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2634" class="elementor elementor-2634">
+							<div class="elementor-element elementor-element-6e0fa166 e-flex e-con-boxed e-con e-parent" data-id="6e0fa166" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-502576a3 elementor-widget elementor-widget-text-editor" data-id="502576a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<div>
+<div dir="auto">
+<p style="margin-bottom: var(--content-spacing); font-size: 16px; text-align: justify;">Exchange Pride é um projeto freelance para criação de animação para campanha de lançamento do projeto. Atuei como motion designer criando a adpatação do roteiro para o storyboard, as animações, adequando as ilustrações a identidade da marca e os efeitos de transição.</p>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9977e0d e-flex e-con-boxed e-con e-parent" data-id="9977e0d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7406fce elementor-widget elementor-widget-heading" data-id="7406fce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Animação</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e56424f elementor-widget elementor-widget-text-editor" data-id="e56424f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a9e676f e-flex e-con-boxed e-con e-parent" data-id="a9e676f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-179ecf5 elementor-widget elementor-widget-video" data-id="179ecf5" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/ZOCZRHz-2Yc&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e4d8068 e-flex e-con-boxed e-con e-parent" data-id="e4d8068" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2deaf74 e-flex e-con-boxed e-con e-parent" data-id="2deaf74" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-313d504 elementor-widget elementor-widget-heading" data-id="313d504" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Galeria</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cba4bf4 elementor-widget elementor-widget-image-gallery" data-id="cba4bf4" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+			<style>.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="exchange-pride-00" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYzOSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL2V4Y2hhbmdlLXByaWRlLTAwLTEuanBnIiwic2xpZGVzaG93IjoiY2JhNGJmNCJ9" href='./../../../wp-content/uploads/2022/04/exchange-pride-00-1.jpg'><img width="768" height="432" src="./../../../wp-content/uploads/2022/04/exchange-pride-00-1.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" fetchpriority="high" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="exchange-pride-01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0MCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL2V4Y2hhbmdlLXByaWRlLTAxLmpwZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/exchange-pride-01.jpg'><img loading="lazy" width="768" height="432" src="./../../../wp-content/uploads/2022/04/exchange-pride-01.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="exchange-pride-02" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0MSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL2V4Y2hhbmdlLXByaWRlLTAyLmpwZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/exchange-pride-02.jpg'><img loading="lazy" width="768" height="432" src="./../../../wp-content/uploads/2022/04/exchange-pride-02.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="exchange-pride-03" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0MiwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL2V4Y2hhbmdlLXByaWRlLTAzLmpwZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/exchange-pride-03.jpg'><img width="768" height="432" src="./../../../wp-content/uploads/2022/04/exchange-pride-03.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="Exchange-Pride_Palheta-de-Cores" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYzOCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL0V4Y2hhbmdlLVByaWRlX1BhbGhldGEtZGUtQ29yZXMuanBnIiwic2xpZGVzaG93IjoiY2JhNGJmNCJ9" href='./../../../wp-content/uploads/2022/04/Exchange-Pride_Palheta-de-Cores.jpg'><img width="722" height="388" src="./../../../wp-content/uploads/2022/04/Exchange-Pride_Palheta-de-Cores.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="Storyboard_02-compactado-1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0OCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL1N0b3J5Ym9hcmRfMDItY29tcGFjdGFkby0xLnBuZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-1.png'><img width="768" height="576" src="./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-1.png" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="Storyboard_02-compactado-2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0NCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL1N0b3J5Ym9hcmRfMDItY29tcGFjdGFkby0yLnBuZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-2.png'><img width="768" height="576" src="./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-2.png" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="Storyboard_02-compactado-3" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0NSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL1N0b3J5Ym9hcmRfMDItY29tcGFjdGFkby0zLnBuZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-3.png'><img width="768" height="576" src="./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-3.png" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="Storyboard_02-compactado-4" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0NiwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL1N0b3J5Ym9hcmRfMDItY29tcGFjdGFkby00LnBuZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-4.png'><img width="768" height="576" src="./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-4.png" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="Storyboard_02-compactado-5" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY0NywidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDRcL1N0b3J5Ym9hcmRfMDItY29tcGFjdGFkby01LnBuZyIsInNsaWRlc2hvdyI6ImNiYTRiZjQifQ%3D%3D" href='./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-5.png'><img width="768" height="576" src="./../../../wp-content/uploads/2022/04/Storyboard_02-compactado-5.png" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<p>O post <a href="./../../../motion-design/exchange-pride/index.html">Exchange Pride</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Shirley &#038; Deisê &#8211; Web Série</title>
+		<link>./../../../motion-design/shirley-deise-web-serie/index.html</link>
+		
+		<dc:creator><![CDATA[toric_v]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 03:00:35 +0000</pubDate>
+				<category><![CDATA[Motion Design]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2626</guid>
+
+					<description><![CDATA[<p>Shirley e Deisê é uma websérie produzida por professores e estudantes do Centro de Artes da UFPel, a partir da associação de projetos de pesquisa e extensão dos cursos de teatro, dança, cinema e música onde realizei motion design desenvolvendo as animações e a identidade visual. A Série está sendo produzida à distância com ensaios [&#8230;]</p>
+<p>O post <a href="./../../../motion-design/shirley-deise-web-serie/index.html">Shirley &#038; Deisê &#8211; Web Série</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2626" class="elementor elementor-2626">
+							<div class="elementor-element elementor-element-6e0fa166 e-flex e-con-boxed e-con e-parent" data-id="6e0fa166" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-502576a3 elementor-widget elementor-widget-text-editor" data-id="502576a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<div>
+<div dir="auto">
+<p style="margin-bottom: var(--content-spacing); font-size: 16px; text-align: justify;">Shirley e Deisê é uma websérie produzida por professores e estudantes do Centro de Artes da UFPel, a partir da associação de projetos de pesquisa e extensão dos cursos de teatro, dança, cinema e música onde realizei motion design desenvolvendo as animações e a identidade visual.</p>
+<p style="margin-bottom: var(--content-spacing); font-size: 16px; text-align: justify;">A Série está sendo produzida à distância com ensaios feitos pelas plataformas de reuniões e encontros e cada capítulo é gravado em celulares.</p>
+<p style="margin-bottom: var(--content-spacing); font-size: 16px; text-align: justify;">Lançamento de novo episódio toda terça-feira às 21h pelo canal ShirleyeDeisê no <a href="https://www.youtube.com/@shirleydeise8177">youtube</a>. Foram exibidas 6 temporadas até 2020 com um total de 19 episódios.</p>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9977e0d e-flex e-con-boxed e-con e-parent" data-id="9977e0d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7406fce elementor-widget elementor-widget-heading" data-id="7406fce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Ficha Técnica</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e56424f elementor-widget elementor-widget-text-editor" data-id="e56424f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<p>SHIRLEY &amp; DEISÊ</p>
+<p>Com<br />Maria Falkembach e Marina de Oliveira</p>
+<p>Direção<br />Paulo Gaiger</p>
+<p>Montagem e Finalização<br />Cintia Langie e Ana Paula Ambrosano Ribeiro</p>
+<p>Roteiro e Dramaturgia<br />Paulo, Maria e Marina</p>
+<p>Animação e Identidade Visual<br />Ana Paula Ambrosano Ribeiro/ Kevin Proença/ Victor de Souza</p>
+<p>Comunicação/Divulgação<br />“o grupo”</p>
+<p>Música tema<br />Leandro Maia</p>
+<p>Referência de desenho das letras<br />Gonçalo Maia</p>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a9e676f e-flex e-con-boxed e-con e-parent" data-id="a9e676f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-179ecf5 elementor-widget elementor-widget-video" data-id="179ecf5" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/UonbJqlcgvw?si=teAwT3PBRfnUvgyV&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e4d8068 e-flex e-con-boxed e-con e-parent" data-id="e4d8068" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e6598f6 elementor-widget elementor-widget-video" data-id="e6598f6" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/uYQv0tS5jjE?si=RWR6DxOl6y2oHluo&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e9855d7 elementor-widget elementor-widget-video" data-id="e9855d7" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/U-1ObI4_vUc?si=oGGvpeDZxVN1upQ1&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a61607a e-flex e-con-boxed e-con e-parent" data-id="a61607a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8a6c0c3 elementor-widget elementor-widget-heading" data-id="8a6c0c3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Playlist no Youtube</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0e1b824 elementor-widget elementor-widget-text-editor" data-id="0e1b824" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="https://youtube.com/playlist?list=PLGNYKw4VsTFzRq1M-w23l62CB2zoNOnx8&amp;si=ehfk41di6zttIML0">https://youtube.com/playlist?list=PLGNYKw4VsTFzRq1M-w23l62CB2zoNOnx8&amp;si=ehfk41di6zttIML0</a></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2deaf74 e-flex e-con-boxed e-con e-parent" data-id="2deaf74" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-313d504 elementor-widget elementor-widget-heading" data-id="313d504" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Galeria</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cba4bf4 elementor-widget elementor-widget-image-gallery" data-id="cba4bf4" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="shiley e deise capa" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYzMCwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyM1wvMTFcL3NoaWxleS1lLWRlaXNlLWNhcGEuanBnIiwic2xpZGVzaG93IjoiY2JhNGJmNCJ9" href='./../../../wp-content/uploads/2023/11/shiley-e-deise-capa.jpg'><img width="768" height="432" src="./../../../wp-content/uploads/2023/11/shiley-e-deise-capa.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<p>O post <a href="./../../../motion-design/shirley-deise-web-serie/index.html">Shirley &#038; Deisê &#8211; Web Série</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -285,6 +482,203 @@
 		
 			</item>
 		<item>
+		<title>Céu da Boca &#8211; Curta Metragem</title>
+		<link>./../../../motion-design/ceu-da-boca-curta/index.html</link>
+		
+		<dc:creator><![CDATA[toric_v]]></dc:creator>
+		<pubDate>Wed, 01 May 2019 03:00:17 +0000</pubDate>
+				<category><![CDATA[Motion Design]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2655</guid>
+
+					<description><![CDATA[<p>Céu da Boca é um curta metragem realizado como trabalho de conclusão de curso onde realizei colorização e animação. Animação https://youtu.be/g2T6J3BoLns Mostras e Festivais 4° Cine Tamoio &#8211; Festival de Cinema de São Gonçalo. 19ª Goiânia mostra curtas. Anima Mundi 2019: Olho neles! 2. 5º Festival Curta Campos do Jordão. FESTCIMM 2019 &#8211; Festival de [&#8230;]</p>
+<p>O post <a href="./../../../motion-design/ceu-da-boca-curta/index.html">Céu da Boca &#8211; Curta Metragem</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2655" class="elementor elementor-2655">
+							<div class="elementor-element elementor-element-6e0fa166 e-flex e-con-boxed e-con e-parent" data-id="6e0fa166" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-502576a3 elementor-widget elementor-widget-text-editor" data-id="502576a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<div>
+<div dir="auto">
+<p style="margin-bottom: var(--content-spacing); font-size: 16px; text-align: justify;">Céu da Boca é um curta metragem realizado como trabalho de conclusão de curso onde realizei colorização e animação.</p>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9977e0d e-flex e-con-boxed e-con e-parent" data-id="9977e0d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7406fce elementor-widget elementor-widget-heading" data-id="7406fce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Animação</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e56424f elementor-widget elementor-widget-text-editor" data-id="e56424f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a9e676f e-flex e-con-boxed e-con e-parent" data-id="a9e676f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-179ecf5 elementor-widget elementor-widget-video" data-id="179ecf5" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/g2T6J3BoLns&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e4d8068 e-flex e-con-boxed e-con e-parent" data-id="e4d8068" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-29b2cae elementor-widget elementor-widget-heading" data-id="29b2cae" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Mostras e Festivais</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ecd5c99 elementor-widget elementor-widget-text-editor" data-id="ecd5c99" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<div>
+<div dir="auto">
+<ul>
+<li style="font-size: 16px; text-align: justify;">4° Cine Tamoio &#8211; Festival de Cinema de São Gonçalo.</li>
+<li>19ª Goiânia mostra curtas.</li>
+<li>Anima Mundi 2019: Olho neles! 2.</li>
+<li>5º Festival Curta Campos do Jordão.</li>
+<li>FESTCIMM 2019 &#8211; Festival de Cinema Meio do Mundo.</li>
+<li>FESTCURTAS BH 2019.</li>
+</ul>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-86e3a60 e-flex e-con-boxed e-con e-parent" data-id="86e3a60" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3b4e45e elementor-widget elementor-widget-heading" data-id="3b4e45e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Galeria</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a215efa elementor-widget elementor-widget-image-gallery" data-id="a215efa" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="a215efa" data-elementor-lightbox-title="ceu da boca capa" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY2MywidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDVcL2NldS1kYS1ib2NhLWNhcGEtMS5qcGciLCJzbGlkZXNob3ciOiJhMjE1ZWZhIn0%3D" href='./../../../wp-content/uploads/2019/05/ceu-da-boca-capa-1.jpg'><img width="150" height="64" src="./../../../wp-content/uploads/2019/05/ceu-da-boca-capa-1.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<p>O post <a href="./../../../motion-design/ceu-da-boca-curta/index.html">Céu da Boca &#8211; Curta Metragem</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Oh my dog! &#8211; Curta Metragem</title>
+		<link>./../../../motion-design/oh-my-dog/index.html</link>
+		
+		<dc:creator><![CDATA[toric_v]]></dc:creator>
+		<pubDate>Sun, 01 Jul 2018 03:00:01 +0000</pubDate>
+				<category><![CDATA[Motion Design]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2667</guid>
+
+					<description><![CDATA[<p>Oh My Dog! é um curta metragem desenvolvido como projeto para disciplina do curso Cinema de Animação da Univerisdade Federal de Pelotas &#8211; UFPel, no qual realizei motion design para o título e créditos. Animação https://youtu.be/zkQvLusB5TUhttps://youtu.be/-2PgbAzcdgw Mostras e Festivais 15º Festival Internacional de Animação Estudantil do Brasil. Festival AnimArte 2019. Galeria</p>
+<p>O post <a href="./../../../motion-design/oh-my-dog/index.html">Oh my dog! &#8211; Curta Metragem</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2667" class="elementor elementor-2667">
+							<div class="elementor-element elementor-element-6e0fa166 e-flex e-con-boxed e-con e-parent" data-id="6e0fa166" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-502576a3 elementor-widget elementor-widget-text-editor" data-id="502576a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<div>
+<div dir="auto">
+<p style="margin-bottom: var(--content-spacing); font-size: 16px; text-align: justify;">Oh My Dog! é um curta metragem desenvolvido como projeto para disciplina do curso Cinema de Animação da Univerisdade Federal de Pelotas &#8211; UFPel, no qual realizei motion design para o título e créditos.</p>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9977e0d e-flex e-con-boxed e-con e-parent" data-id="9977e0d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7406fce elementor-widget elementor-widget-heading" data-id="7406fce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Animação</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e56424f elementor-widget elementor-widget-text-editor" data-id="e56424f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a9e676f e-flex e-con-boxed e-con e-parent" data-id="a9e676f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-179ecf5 elementor-widget elementor-widget-video" data-id="179ecf5" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/zkQvLusB5TU&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d8d9d99 elementor-widget elementor-widget-video" data-id="d8d9d99" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/-2PgbAzcdgw&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e4d8068 e-flex e-con-boxed e-con e-parent" data-id="e4d8068" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-29b2cae elementor-widget elementor-widget-heading" data-id="29b2cae" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Mostras e Festivais</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ecd5c99 elementor-widget elementor-widget-text-editor" data-id="ecd5c99" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<div>
+<div dir="auto">
+<ul>
+<li style="font-size: 16px; text-align: justify;">15º Festival Internacional de Animação Estudantil do Brasil.</li>
+<li>Festival AnimArte 2019.</li>
+</ul>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-86e3a60 e-flex e-con-boxed e-con e-parent" data-id="86e3a60" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3b4e45e elementor-widget elementor-widget-heading" data-id="3b4e45e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Galeria</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a215efa elementor-widget elementor-widget-image-gallery" data-id="a215efa" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="a215efa" data-elementor-lightbox-title="oh my dog capa" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY2OSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMDRcL29oLW15LWRvZy1jYXBhLmpwZyIsInNsaWRlc2hvdyI6ImEyMTVlZmEifQ%3D%3D" href='./../../../wp-content/uploads/2021/04/oh-my-dog-capa.jpg'><img width="150" height="84" src="./../../../wp-content/uploads/2021/04/oh-my-dog-capa.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="a215efa" data-elementor-lightbox-title="69887130_10217120876907865_3992479290577911808_n" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY3MSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMDRcLzY5ODg3MTMwXzEwMjE3MTIwODc2OTA3ODY1XzM5OTI0NzkyOTA1Nzc5MTE4MDhfbi5qcGciLCJzbGlkZXNob3ciOiJhMjE1ZWZhIn0%3D" href='./../../../wp-content/uploads/2021/04/69887130_10217120876907865_3992479290577911808_n.jpg'><img width="109" height="150" src="./../../../wp-content/uploads/2021/04/69887130_10217120876907865_3992479290577911808_n.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		<p>O post <a href="./../../../motion-design/oh-my-dog/index.html">Oh my dog! &#8211; Curta Metragem</a> apareceu primeiro em <a href="./../../../">Toric Produções</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>M.96 &#8211; Curta Metragem</title>
 		<link>./../../../edicao-de-video/m96-curta-metragem/index.html</link>
 		
@@ -344,7 +738,7 @@
 				</div>
 				<div class="elementor-element elementor-element-7d19d38 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="7d19d38" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 25-10-2023 */
+			<style>/*! elementor - v3.17.0 - 01-11-2023 */
 .elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
 								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="./../../../wp-content/uploads/2017/12/m96-flyer-1.jpg" alt="m96 flyer" /></figure></div>			</div>
@@ -361,10 +755,10 @@
 				</div>
 				<div class="elementor-element elementor-element-cba4bf4 elementor-widget elementor-widget-image-gallery" data-id="cba4bf4" data-element_type="widget" data-widget_type="image-gallery.default">
 				<div class="elementor-widget-container">
-			<style>.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="m96 mo 01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjU2MSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMTJcL205Ni1tby0wMS5qcGciLCJzbGlkZXNob3ciOiJjYmE0YmY0In0%3D" href='./../../../wp-content/uploads/2017/12/m96-mo-01.jpg'><img width="768" height="432" src="./../../../wp-content/uploads/2017/12/m96-mo-01.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" fetchpriority="high" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="m96 mo 02" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjU2MiwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMTJcL205Ni1tby0wMi5qcGciLCJzbGlkZXNob3ciOiJjYmE0YmY0In0%3D" href='./../../../wp-content/uploads/2017/12/m96-mo-02.jpg'><img width="768" height="427" src="./../../../wp-content/uploads/2017/12/m96-mo-02.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="m96 mo 01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjU2MSwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMTJcL205Ni1tby0wMS5qcGciLCJzbGlkZXNob3ciOiJjYmE0YmY0In0%3D" href='./../../../wp-content/uploads/2017/12/m96-mo-01.jpg'><img width="768" height="432" src="./../../../wp-content/uploads/2017/12/m96-mo-01.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="cba4bf4" data-elementor-lightbox-title="m96 mo 02" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjU2MiwidXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC90b3JpYy5tZVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMTJcL205Ni1tby0wMi5qcGciLCJzbGlkZXNob3ciOiJjYmE0YmY0In0%3D" href='./../../../wp-content/uploads/2017/12/m96-mo-02.jpg'><img width="768" height="427" src="./../../../wp-content/uploads/2017/12/m96-mo-02.jpg" class="attachment-medium_large size-medium_large" alt="" decoding="async" loading="lazy" /></a>
 		</div>
 				</div>
 				</div>
